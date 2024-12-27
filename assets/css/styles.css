@@ -958,6 +958,12 @@ img {
   margin-right: var(--mb-1-5);
 }
 
+.footer__social-strava{
+  width: 20px;
+  height: 20px;
+  fill: white;
+}
+
 .footer__social:hover {
   color: var(--first-color-lighter);
 }
